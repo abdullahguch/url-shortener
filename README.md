@@ -45,7 +45,7 @@ Enter the shortened URL: http://short.url/2fd4e1c6
 Original URL: https://www.example.com
 
 ## Contributing
-Feel free to contribute by opening issues or submitting pull requests. Please follow the code of conduct.
+This is a basic implementation, and in a real-world scenario, we need to handle edge cases, collisions, and we need to use a database to store the mapping between short codes and URLs. Feel free to contribute by opening issues or submitting pull requests. Please follow the code of conduct.
 
 ## License
 This project is licensed under the MIT License - see the LICENSE file for details.
